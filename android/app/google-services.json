@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65214136143",
+    "project_id": "lupdj10ids2",
+    "storage_bucket": "lupdj10ids2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65214136143:android:1822811dddc7e589980f3a",
+        "android_client_info": {
+          "package_name": "com.uttec.lupdj.gastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SKSFULyt4gnM0HcLh9x-ag5NlOvy5qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65214136143:android:0b806e50487a3493980f3a",
+        "android_client_info": {
+          "package_name": "com.uttec.lupj.controlgastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SKSFULyt4gnM0HcLh9x-ag5NlOvy5qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
